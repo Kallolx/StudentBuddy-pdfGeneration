@@ -25,7 +25,8 @@
       "softwareKeyboardLayoutMode": "pan",
       "navigationBarColor": "#121212",
       "statusBarColor": "transparent",
-      "statusBarStyle": "light"
+      "statusBarStyle": "light",
+      "package": "com.kallol69.studentbuddy"
     },
     "web": {
       "favicon": "./assets/favicon.png"
